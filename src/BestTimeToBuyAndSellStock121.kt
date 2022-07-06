@@ -21,18 +21,3 @@ class BestTimeToBuyAndSellStock121 {
         return maxProfit
     }
 }
-
-fun main() {
-    isPalindrome("A man, a plan, a canal: Panama")
-}
-fun isPalindrome(s: String): Boolean {
-    val builder = StringBuilder(s)
-
-    val str1 = builder.reverse().toString().toLowerCase().filter { it.isLetterOrDigit() }
-    val str2 = s.toLowerCase().filter { it.isLetterOrDigit() }
-
-    println(str1)
-    println(str2)
-
-    return str1 == str2
-}
