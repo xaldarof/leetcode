@@ -1,7 +1,4 @@
-/**
- * Runtime: 942 ms, faster than 32.85% of Kotlin online submissions for Best Time to Buy and Sell Stock.
- * Memory Usage: 98.5 MB, less than 26.37% of Kotlin online submissions for Best Time to Buy and Sell Stock.
- */
+
 
 class BestTimeToBuyAndSellStock121 {
     fun maxProfit(prices: IntArray): Int {

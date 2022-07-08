@@ -1,7 +1,4 @@
-/**
- * Runtime: 395 ms, faster than 47.30% of Kotlin online submissions for Roman to Integer.
- * Memory Usage: 41.9 MB, less than 44.94% of Kotlin online submissions for Roman to Integer.
- */
+
 
 class RomanToInteger13 {
 

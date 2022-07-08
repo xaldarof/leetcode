@@ -1,7 +1,3 @@
-/*
-Runtime: 337 ms, faster than 54.47% of Kotlin online submissions for Valid Palindrome.
-Memory Usage: 42.9 MB, less than 29.61% of Kotlin online submissions for Valid Palindrome.
- */
 
 class IsPalindromeString {
     fun isPalindrome(s: String): Boolean {
